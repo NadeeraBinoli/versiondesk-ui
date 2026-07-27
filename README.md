@@ -2,7 +2,7 @@
 
 > An interactive project management and communication hub designed for software startups.
 
-VersionDesk is a Human-Computer Interaction (HCI) focused prototype that centralizes client communication, task management, and software version tracking into a single intuitive platform. The project demonstrates how modern HCI techniques can improve collaboration, transparency, and usability among clients, project managers, software engineers, and administrators. :contentReference[oaicite:1]{index=1}
+VersionDesk is a Human-Computer Interaction (HCI) focused prototype that centralizes client communication, task management, and software version tracking into a single intuitive platform. The project demonstrates how modern HCI techniques can improve collaboration, transparency, and usability among clients, project managers, software engineers, and administrators.
 
 ---
 
@@ -11,7 +11,7 @@ VersionDesk is a Human-Computer Interaction (HCI) focused prototype that central
 **Module:** CCU4301 – Human Computer Interaction  
 **Degree:** Bachelor of Information Technology (Honours)  
 **Institution:** ESOFT Metro Campus  
-**Student:** W.B.M.Y.N.B. Menike (E180652) :contentReference[oaicite:2]{index=2}
+**Student:** W.B.M.Y.N.B. Menike (E180652)
 
 ---
 
@@ -66,7 +66,7 @@ This prototype demonstrates several Human-Computer Interaction techniques:
 - Detailed management dashboard
 - Task-focused developer workspace
 
-These interaction techniques were selected to improve usability, reduce cognitive load, and support users with different technical expertise. :contentReference[oaicite:4]{index=4}
+These interaction techniques were selected to improve usability, reduce cognitive load, and support users with different technical expertise.
 
 ---
 
@@ -112,7 +112,7 @@ These interaction techniques were selected to improve usability, reduce cognitiv
 - Release history
 - Inquiry mapping
 
-Screenshots of these interfaces are included in the project report. :contentReference[oaicite:5]{index=5}
+Screenshots of these interfaces are included in the project report.
 
 ---
 
