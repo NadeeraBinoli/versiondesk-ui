@@ -6,6 +6,16 @@ VersionDesk is a Human-Computer Interaction (HCI) focused prototype that central
 
 ---
 
+## 🌐 Live Demo
+
+GitHub Pages:
+
+```
+https://nadeerabinoli.github.io/versiondesk-ui/
+```
+
+---
+
 ## 🎓 Academic Project
 
 **Module:** CCU4301 – Human Computer Interaction  
@@ -167,16 +177,6 @@ Preview production build:
 
 ```bash
 npm run preview
-```
-
----
-
-## 🌐 Live Demo
-
-GitHub Pages:
-
-```
-https://nadeerabinoli.github.io/versiondesk-ui/
 ```
 
 ---
